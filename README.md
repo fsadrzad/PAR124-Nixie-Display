@@ -6,4 +6,7 @@ The machine uses time divison demultiplexing to drive 5 nixie tubes in sequence,
 counters to even further simplfy the process of writing into the display. An M5Stack ADS1115 bi-polar I2C voltmeter is used to read the output voltage of the amplifier.
 The winding that is used to power the front illuminantion bulbs of the PAR were tapped off and a CUI devices VX78039-1000 to produce a Nano Every. 
 
+Final look:
+![alt text]([http://url/to/img.png](https://github.com/fsadrzad/PAR124-Nixie-Display/blob/main/IMG_0242.jpg))
+
 Enjoy!
