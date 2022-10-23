@@ -9,4 +9,5 @@ The winding that is used to power the front illuminantion bulbs of the PAR were 
 
 Enjoy!
 
-https://github.com/fsadrzad/PAR124-Nixie-Display/issues/1#issue-1419846777
+![IMG_0242](https://user-images.githubusercontent.com/15238109/197403586-768ab31e-08b3-4f59-85c2-57b273248ab1.jpg)
+
